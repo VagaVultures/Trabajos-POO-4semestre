@@ -1,0 +1,40 @@
+[
+    {
+        "especie": "Gato",
+        "nombre": "Garfield",
+        "edad": 5,
+        "color_pelaje": "Naranja"
+    },
+    {
+        "especie": "Gato",
+        "nombre": "Maldad",
+        "edad": 4,
+        "color_pelaje": "Negro"
+    },
+    {
+        "especie": "Gallina",
+        "nombre": "Turuleca",
+        "edad": 2,
+        "Huevo_Producido": 3
+    },
+    {
+        "especie": "Gallina",
+        "nombre": "Pintadita",
+        "edad": 5,
+        "Huevo_Producido": 1
+    },
+    {
+        "especie": "Perro",
+        "nombre": "Sif",
+        "edad": 1600,
+        "pelaje": "Gris",
+        "diametro_del_hoyo_escarbado": 0
+    },
+    {
+        "especie": "Perro",
+        "nombre": "Maylo",
+        "edad": 13,
+        "pelaje": "Atigrado",
+        "diametro_del_hoyo_escarbado": 74
+    }
+]
